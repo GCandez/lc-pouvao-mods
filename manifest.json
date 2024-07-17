@@ -1,0 +1,15 @@
+{
+  "$schema": "https://gist.githubusercontent.com/ChrisFeline/dcbe4871b58edc4fde286ebf8bdef3a4/raw/beeed1596bbbd1303f3f56d589d97d8eb3f8b33f/thunderstore-manifest.json",
+  "name": "PouvaoMods",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/gcandez/pouvao-mods",
+  "description": "Mods da tarverna do pouvao!",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "notnotnotswipez-MoreCompany-1.9.4",
+    "FlipMods-TooManyEmotes-2.1.19",
+    "Steven-Custom_Boombox_Music-1.4.0",
+    "FutureSavior-Boombox_Sync_Fix-1.1.2",
+    "x753-More_Suits-1.4.3"
+  ]
+}
